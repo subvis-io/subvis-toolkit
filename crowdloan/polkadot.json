@@ -1,0 +1,45 @@
+[
+  {
+    "paraid": "2000",
+    "name": "Acala",
+    "token": "ACA",
+    "description": "All-in-one DeFi hub of Polkadot",
+    "website": "https://acala.network/acala/join-acala/0x10be97a8c71ac747fdd5ed0606b420c0c18c055e66efd9594c88f006c055b906",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
+  },
+  {
+    "paraid": "2004",
+    "name": "Moonbeam",
+    "token": "GLMR",
+    "description": "Ethereum-compatible smart contract parachain on Polkadot",
+    "website": "https://crowdloan.moonbeam.foundation/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/moonbeam.png",
+    "flow": {
+      "name": "moonbeam",
+      "data": {
+        "devApiUrl": "https://wallet-test.api.purestake.xyz",
+        "prodApiUrl": "https://yy9252r9jh.api.purestake.io",
+        "devApiKey": "JbykAAZTUa8MTggXlb4k03yAW9Ur2DFU1T0rm2Th",
+        "prodApiKey": "oueZPaKtwAEAooqpdafr33i6yqPgU804E06CqeGb",
+        "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md",
+        "crowdloanInfoUrl": "https://crowdloan.moonbeam.foundation//"
+      }
+    }
+  },
+  {
+    "paraid": "2006",
+    "name": "Astar",
+    "token": "ASTR",
+    "description": "A Multi Chain Polkadot DApp Hub",
+    "website": "https://crowdloan.astar.network/?referral=5Ft4hHmnSjDxp72sXmVbMDnmJRZFDJKCoC9ttM5ToN861MZC",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png"
+  },
+  {
+    "paraid": "2013",
+    "name": "Litentry",
+    "token": "LIT",
+    "description": "A Decentralised Identity Aggregation protocol across multiple networks",
+    "website": "https://www.litentry.com/",
+    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litentry.png"
+  }
+]
