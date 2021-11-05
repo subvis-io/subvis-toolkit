@@ -5,7 +5,7 @@
     "token": "ACA",
     "description": "All-in-one DeFi hub of Polkadot",
     "website": "https://acala.network/acala/join-acala/0x10be97a8c71ac747fdd5ed0606b420c0c18c055e66efd9594c88f006c055b906",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Acala.svg"
   },
   {
     "paraid": "2004",
@@ -13,7 +13,7 @@
     "token": "GLMR",
     "description": "Ethereum-compatible smart contract parachain on Polkadot",
     "website": "https://crowdloan.moonbeam.foundation/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/moonbeam.png",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Moonbeam.svg",
     "flow": {
       "name": "moonbeam",
       "data": {
@@ -32,7 +32,7 @@
     "token": "ASTR",
     "description": "A Multi Chain Polkadot DApp Hub",
     "website": "https://crowdloan.astar.network/?referral=5Ft4hHmnSjDxp72sXmVbMDnmJRZFDJKCoC9ttM5ToN861MZC",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png"
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Astar.svg"
   },
   {
     "paraid": "2013",
@@ -40,6 +40,6 @@
     "token": "LIT",
     "description": "A Decentralised Identity Aggregation protocol across multiple networks",
     "website": "https://www.litentry.com/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litentry.png"
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Litentry.svg"
   }
 ]
