@@ -1,7 +1,7 @@
 [
   {
     "paraid": "2000",
-    "name": "Acala",
+    "name": "Acala  👉 Contribute",
     "token": "ACA",
     "description": "All-in-one DeFi hub of Polkadot",
     "website": "https://acala.network/acala/join-acala/0x10be97a8c71ac747fdd5ed0606b420c0c18c055e66efd9594c88f006c055b906",
@@ -9,26 +9,15 @@
   },
   {
     "paraid": "2004",
-    "name": "Moonbeam",
+    "name": "Moonbeam 👉 Contribute",
     "token": "GLMR",
     "description": "Ethereum-compatible smart contract parachain on Polkadot",
     "website": "https://crowdloan.moonbeam.foundation/",
-    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Moonbeam.svg",
-    "flow": {
-      "name": "moonbeam",
-      "data": {
-        "devApiUrl": "https://wallet-test.api.purestake.xyz",
-        "prodApiUrl": "https://yy9252r9jh.api.purestake.io",
-        "devApiKey": "JbykAAZTUa8MTggXlb4k03yAW9Ur2DFU1T0rm2Th",
-        "prodApiKey": "oueZPaKtwAEAooqpdafr33i6yqPgU804E06CqeGb",
-        "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md",
-        "crowdloanInfoUrl": "https://crowdloan.moonbeam.foundation//"
-      }
-    }
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Moonbeam.svg"
   },
   {
     "paraid": "2006",
-    "name": "Astar",
+    "name": "Astar 👉 Contribute",
     "token": "ASTR",
     "description": "A Multi Chain Polkadot DApp Hub",
     "website": "https://crowdloan.astar.network/?referral=5Ft4hHmnSjDxp72sXmVbMDnmJRZFDJKCoC9ttM5ToN861MZC",
@@ -36,18 +25,34 @@
   },
   {
     "paraid": "2012",
-    "name": "Parallel Finance",
+    "name": "Parallel Finance 👉 Contribute",
     "token": "PARA",
     "description": "Decentralized money market protocol that offers lending, staking, and borrowing",
-    "website": "https://parallel.fi/",
+    "website": "https://crowdloan.parallel.fi/#/auction/contribute/polkadot/2006?referral=0xcb6cc2a2c49c35e17a3f2cb3ad2ae25919a68bb15463a07af193094d51318c40",
     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/parallel.svg"
   },
   {
     "paraid": "2013",
-    "name": "Litentry",
+    "name": "Litentry 👉 Contribute",
     "token": "LIT",
     "description": "A Decentralised Identity Aggregation protocol across multiple networks",
-    "website": "https://www.litentry.com/",
+    "website": "https://crowdloan.litentry.com/",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Litentry.svg"
+  },
+  {
+    "paraid": "2002",
+    "name": "Clover 👉 Contribute",
+    "token": "CLV",
+    "description": "A substrate-based smart contract platform built for Polkadot",
+    "website": "https://clover.finance/",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Clover.svg"
+  },
+  {
+    "paraid": "2015",
+    "name": "Manta 👉 Contribute",
+    "token": "Manta",
+    "description": "Building an interoperable privacy layer for the Polkadot ecosystem",
+    "website": "https://crowdloanstrategy.manta.network/crowdloan-details/contribution-channels",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Manta.svg"
   }
 ]
