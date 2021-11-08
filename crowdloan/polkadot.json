@@ -54,5 +54,13 @@
     "description": "Building an interoperable privacy layer for the Polkadot ecosystem",
     "website": "https://crowdloanstrategy.manta.network/crowdloan-details/contribution-channels",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Manta.svg"
+  },
+  {
+    "paraid": "2018",
+    "name": "SubDAO",
+    "token": "GOV",
+    "description": "A Polkadot-based DAO management platform",
+    "website": "https://www.subdao.network/",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/SubDao.svg"
   }
 ]
