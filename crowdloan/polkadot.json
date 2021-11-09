@@ -8,6 +8,14 @@
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Acala.svg"
   },
   {
+    "paraid": "2003",
+    "name": "Darwinia",
+    "token": "RING",
+    "description": "Decentralized heterogeneous cross-chain bridge protocol built on Substrate",
+    "website": "https://darwinia.network/plo",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Darwinia.svg"
+  },
+  {
     "paraid": "2004",
     "name": "Moonbeam",
     "token": "GLMR",
@@ -20,7 +28,7 @@
     "name": "Astar",
     "token": "ASTR",
     "description": "A Multi Chain Polkadot DApp Hub",
-    "website": "https://crowdloan.astar.network/?referral=5Ft4hHmnSjDxp72sXmVbMDnmJRZFDJKCoC9ttM5ToN861MZC",
+    "website": "https://crowdloan.astar.network/?referral=5CSfEwHGh7eEmyN15u1jmQckxrbWLmadmfyCzfiuRarfvZck",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Astar.svg"
   },
   {
@@ -28,7 +36,7 @@
     "name": "Parallel Finance",
     "token": "PARA",
     "description": "Decentralized money market protocol that offers lending, staking, and borrowing",
-    "website": "https://crowdloan.parallel.fi/#/auction/contribute/polkadot/2006?referral=0xcb6cc2a2c49c35e17a3f2cb3ad2ae25919a68bb15463a07af193094d51318c40",
+    "website": "https://crowdloan.parallel.fi/#/auction/contribute/polkadot/2012?referral=0xcb6cc2a2c49c35e17a3f2cb3ad2ae25919a68bb15463a07af193094d51318c40",
     "icon": "https://raw.githubusercontent.com/polkadot-js/apps/master/packages/apps-config/src/ui/logos/nodes/parallel.svg"
   },
   {
@@ -56,10 +64,18 @@
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Manta.svg"
   },
   {
+    "paraid": "2017",
+    "name": "SubGame Gamma",
+    "token": "",
+    "description": "",
+    "website": "https://www.subgame.org/",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Subgame.svg"
+  },
+  {
     "paraid": "2018",
     "name": "SubDAO",
     "token": "GOV",
-    "description": "A Polkadot-based DAO management platform",
+    "description": "A Cross-chain Platform to link DAO and DApp on Polkadot",
     "website": "https://www.subdao.network/",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/SubDao.svg"
   }
