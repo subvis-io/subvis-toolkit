@@ -78,5 +78,13 @@
     "description": "A Cross-chain Platform to link DAO and DApp on Polkadot",
     "website": "https://www.subdao.network/",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/SubDao.svg"
-  }
+  },
+  {
+    "paraid": "2021",
+    "name": "Efinity",
+    "token": "EFI",
+    "description": "Efinity is a next-generation blockchain designed to bring NFTs to everyone",
+    "website": "https://enjin.io/efinity-crowdloan",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Efinity.svg"
+  },
 ]
