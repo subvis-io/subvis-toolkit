@@ -86,5 +86,12 @@
     "description": "Efinity is a next-generation blockchain designed to bring NFTs to everyone",
     "website": "https://enjin.io/efinity-crowdloan",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Efinity.svg"
-  }
+  },
+    "paraid": "2028",
+    "name": "Ares Protocol",
+    "token": "ARES",
+    "description": "Decentralized Cross-Chain Oracle Platform",
+    "website": "https://www.aresprotocol.io/",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Ares.svg"
+  },
 ]
