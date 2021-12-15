@@ -108,5 +108,37 @@
     "description": "Web3.0 Decentralized Cloud,Encrypt, Replicate & Access Data over IPFS Everywhere",
     "website": "https://crowdloan.parallel.fi/#/auction/contribute/polkadot/2008?referral=0xcb6cc2a2c49c35e17a3f2cb3ad2ae25919a68bb15463a07af193094d51318c40",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Crust.svg"
+  },
+  { 
+    "paraid": "2019",
+    "name": "Composable Finance",
+    "token": "LAYR",
+    "description": "build and deploy decentralised applications capable of being deployed across one or several layer 1 or layer 2 infrastructure",
+    "website": "https://crowdloan.composable.finance/",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Composable.svg"
+  },
+    { 
+    "paraid": "2031",
+    "name": "Centrifuge",
+    "token": "CFG",
+    "description": "We are the bridge that brings trillions from the real world to DeFi",
+    "website": "https://centrifuge.io/parachain/crowdloan/",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Centrifuge.svg"
+  },
+    { 
+    "paraid": "2032",
+    "name": "Interlay",
+    "token": "INTR",
+    "description": "Invest, earn and pay with BTC on any blockchain",
+    "website": "https://crowdloan.interlay.io?referral=0x812bce722d05a296f47d3203a1d33465f881424eb75f502512839ca3a5372f36",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Interlay.svg"
+  },
+    { 
+    "paraid": "2027",
+    "name": "Coinversation",
+    "token": "CTO",
+    "description": "The first DEFI2.0 protocol platform of Polkadot Ecology",
+    "website": "https://polkadot.js.org/apps/#/parachains/crowdloan",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Coinversation.svg"
   }
 ]
