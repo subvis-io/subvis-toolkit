@@ -126,14 +126,6 @@
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Centrifuge.svg"
   },
     { 
-    "paraid": "2032",
-    "name": "Interlay",
-    "token": "INTR",
-    "description": "Invest, earn and pay with BTC on any blockchain",
-    "website": "https://crowdloan.interlay.io?referral=0x812bce722d05a296f47d3203a1d33465f881424eb75f502512839ca3a5372f36",
-    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Interlay.svg"
-  },
-    { 
     "paraid": "2027",
     "name": "Coinversation",
     "token": "CTO",
