@@ -132,5 +132,13 @@
     "description": "The first DEFI2.0 protocol platform of Polkadot Ecology",
     "website": "https://polkadot.js.org/apps/#/parachains/crowdloan",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Coinversation.svg"
+  },
+   { 
+    "paraid": "2032",
+    "name": "Interlay",
+    "token": "INTR",
+    "description": "Invest, earn and pay with BTC on any blockchain. Radically open and secured by insurance.",
+    "website": "https://crowdloan.interlay.io?referral=0x812bce722d05a296f47d3203a1d33465f881424eb75f502512839ca3a5372f36",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Interlay.svg"
   }
 ]
