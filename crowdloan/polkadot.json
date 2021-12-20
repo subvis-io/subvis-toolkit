@@ -140,5 +140,13 @@
     "description": "Invest, earn and pay with BTC on any blockchain. Radically open and secured by insurance.",
     "website": "https://crowdloan.interlay.io?referral=0x812bce722d05a296f47d3203a1d33465f881424eb75f502512839ca3a5372f36",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Interlay.svg"
-  }
+  },
+   { 
+    "paraid": "2011",
+    "name": "Equilibrium",
+    "token": "EQ",
+    "description": "Lend, borrow, stake, swap, trade, earn — all cross-chain.",
+    "website": "https://xdot.equilibrium.io/en?refId=0x10be97a8c71ac747fdd5ed0606b420c0c18c055e66efd9594c88f006c055b906",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Equilibrium.svg"
+  },
 ]
