@@ -56,11 +56,11 @@
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Khala.svg"
   },
   {
-    "paraid": "2006",
+    "paraid": "2105",
     "name": "Darwinia Crab",
     "token": "CRING",
     "description": "Cross-chain communication, smart contracts and NFT on Kusama",
-    "website": "https://crab.network/",
+    "website": "https://crab.network/plo",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Crab.svg"
   },
   {
