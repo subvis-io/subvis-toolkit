@@ -101,7 +101,7 @@
     "website": "https://parachain.nodle.com/",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Nodle.svg"
   },
-    { 
+  { 
     "paraid": "2008",
     "name": "Crust",
     "token": "CRU",
@@ -117,7 +117,7 @@
     "website": "https://crowdloan.composable.finance/polkadot?refCode=XjtCqb",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Composable.svg"
   },
-    { 
+  { 
     "paraid": "2031",
     "name": "Centrifuge",
     "token": "CFG",
@@ -125,7 +125,7 @@
     "website": "https://centrifuge.io/parachain/crowdloan/",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Centrifuge.svg"
   },
-    { 
+  { 
     "paraid": "2027",
     "name": "Coinversation",
     "token": "CTO",
@@ -133,7 +133,7 @@
     "website": "https://polkadot.js.org/apps/#/parachains/crowdloan",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Coinversation.svg"
   },
-   { 
+  { 
     "paraid": "2032",
     "name": "Interlay",
     "token": "INTR",
@@ -141,7 +141,7 @@
     "website": "https://crowdloan.interlay.io?referral=0x812bce722d05a296f47d3203a1d33465f881424eb75f502512839ca3a5372f36",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Interlay.svg"
   },
-   { 
+  { 
     "paraid": "2011",
     "name": "Equilibrium",
     "token": "EQ",
@@ -149,7 +149,7 @@
     "website": "https://equilibrium.io/en/crowdloan?refId=0x10be97a8c71ac747fdd5ed0606b420c0c18c055e66efd9594c88f006c055b906&utm_source=subvis&utm_medium=landing_page&utm_campaign=crowdloan#bid",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Equilibrium.svg"
   },
-    { 
+  { 
     "paraid": "2034",
     "name": "HydraDX",
     "token": "HDX",
@@ -157,12 +157,20 @@
     "website": "https://loan.hydradx.io/",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/HydraDX.svg"
   },
-    { 
+  { 
     "paraid": "2035",
     "name": "Phala Network",
     "token": "PHA",
     "description": "Privacy-Enhanced Permissionless Computing Protocol",
     "website": "https://phala.network/",
     "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Phala.svg"
+  },
+  { 
+    "paraid": "2036",
+    "name": "Polkadex",
+    "token": "PDEX",
+    "description": "Support Polkadex, invest in the next generation of Web3 Exchanges, and be a part of the future of Defi.",
+    "website": "https://polkadex.trade/",
+    "icon": "https://raw.githubusercontent.com/subvis-io/subvis-toolkit/master/crowdloan/icons/Polkadex.svg"
   }
 ]
